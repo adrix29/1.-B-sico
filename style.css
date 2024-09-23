@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background: white;
+   }
+    
+   .container {
+       background: black;
+       display: flex; 
+       justify-content: flex-start;
+       align-items: center
+       
+   }
+   
+   .uno {
+      background:#F13929;
+      width: 200px;
+      height: 200px;
+      border-radius: 15px;
+   }
+   
+   .dos {
+       background: yellow;
+       width: 200px;
+       height: 200px;
+       border-radius: 15px;
+   }
+   
+   
+   
